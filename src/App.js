@@ -10,7 +10,7 @@ function App() {
   };
 
   const showAlert = () => {
-    alert(value);
+    alert("I Love you " + value);
   };
   return (
     <div>
