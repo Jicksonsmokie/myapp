@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  return (<>hello jickson</>
+  return (<h1>hello priya</h1>
   );
 }
 
